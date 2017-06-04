@@ -11,7 +11,7 @@ To check out the project and build it from source, do the following:
 git clone https://github.com/spring-cloud/spring-cloud-aws.git
 cd spring-cloud-aws
 mvn package
---------------------------------------------------------------
+-------------------------------------------------------------
 
 If you encounter out of memory errors during the build, increase
 available heap and permgen for Maven:
