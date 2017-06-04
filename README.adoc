@@ -6,7 +6,7 @@ Spring Cloud for Amazon Web Services, part of the Spring Cloud umbrella project,
 
 = Checking out and building
 To check out the project and build it from source, do the following:
-
+ 
 --------------------------------------------------------------
 git clone https://github.com/spring-cloud/spring-cloud-aws.git
 cd spring-cloud-aws
